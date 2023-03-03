@@ -5,6 +5,12 @@
 <h5>Insta.js</h5>
 <h5>node-fetch</h5>
 
+# LINKS
+DEPLOY [HEROKU]: https://heroku.com/deploy?template=https://github.com/ExE-Venom/insta-chatbot2.0
+DEPLOY [REPL.IT]: https://replit.com
+API ID & KEY: https://brainshop.ai
+GITHUB: https://github.com/ExE-Venom/insta-chatbot2.0
+
 # SETUP
 
 [CLICK ME TO WATCH THE VIDEO ON HOW TO SETUP](https://youtube.com/c/VenomExE)
@@ -13,9 +19,8 @@
 1) COPY THIS LINK :- https://github.com/ExE-Venom/insta-chatbot2.0
 2) GOTO https://replit.com
 3) CLICK ON + ICON ALSO KNOWN AS CREATE NEW REPL & CLICK IMPORT FROM GITHUB AND PASTE THE GITHUB LINK FROM STEP 1 & HIT ENTER.
-4) TYPE npm i IN THE CONSOLE AREA & HIT ENTER.
-5) TYPE YOUR USERNAME & PASSWORD IN ENV FILE.
-7) CLICK ON PLAY/RUN ICON.
+4) TYPE YOUR USERNAME & PASSWORD IN ENV.
+5) CLICK ON PLAY/RUN ICON.
 THAT'S IT HAVE FUN WITH YOUR CHATBOT
 ```
 ## HEROKU
@@ -33,14 +38,12 @@ THAT'S IT HAVE FUN WITH YOUR CHATBOT
 * [DARK MATTER](https://discord.com/api/oauth2/authorize?client_id=860020302766145597&permissions=8&scope=bot)
 
 ## CONTACT HERE
-###### Discord: `@BЯΛVΣ丶Venom OP 🍷#8342`. 
+###### Discord: `@!   Venom OP 🍷#8342`. 
 ###### Telegram: `@Venom_OP_Boi`.
 ###### Instagram: `itz_me_omjee`.
 
 ## CHECK OUT MY SOCIAL
-* [DISCORD](https://discord.gg/cuBErWDy68) - DISCORD SUPPORT SERVER
-* [DISCORD COMMUNITY](https://discord.gg/u6QxkmKNu3) - DISCORD COMMUNITY/CHILL SERVER
-* [TELEGRAM](https://t.me/ErrorCarders) - TELEGRAM CHANNEL
-* [GITHUB](https://github.com/venom-exe) - OFFICIAL GITHUB ACCOUNT
+* [DISCORD](https://discord.gg/gSD23jYU8q) - DISCORD SUPPORT SERVER
+* [GITHUB](https://github.com/ExE-Venom) - OFFICIAL GITHUB ACCOUNT
 * [YOUTUBE](https://www.youtube.com/c/VenomExE/) - MY YOUTUBE CHANNEL
-* [INSTAGRAM](https://instagram.com/itz_me_venomop) - MY INSTAGRAM PROFILE
+* [INSTAGRAM](https://instagram.com/itz_me_omjee) - MY INSTAGRAM PROFILE
