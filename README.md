@@ -6,10 +6,10 @@
 <h5>node-fetch</h5>
 
 # LINKS
-DEPLOY [HEROKU]: https://heroku.com/deploy?template=https://github.com/ExE-Venom/insta-chatbot2.0
-DEPLOY [REPL.IT]: https://replit.com
-API ID & KEY: https://brainshop.ai
-GITHUB: https://github.com/ExE-Venom/insta-chatbot2.0
+* DEPLOY [HEROKU]: https://heroku.com/deploy?template=https://github.com/ExE-Venom/insta-chatbot2.0
+* DEPLOY [REPL.IT]: https://replit.com
+* API ID & KEY: https://brainshop.ai
+* GITHUB: https://github.com/ExE-Venom/insta-chatbot2.0
 
 # SETUP
 
