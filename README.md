@@ -8,26 +8,22 @@
 # SETUP
 
 [CLICK ME TO WATCH THE VIDEO ON HOW TO SETUP](https://youtube.com/c/VenomExE)
+## REPL.IT
 ```js
-1) COPY THIS LINK :- https://github.com/venom-exe/insta-chatbot
+1) COPY THIS LINK :- https://github.com/ExE-Venom/insta-chatbot2.0
 2) GOTO https://replit.com
-3) CREATE A ACCOUNT.
-4) CLICK ON + ICON ALSO KNOWN AS NEW REPL OR CREATE NEW REPL & CLICK IMPORT FROM GITHUB AND PASTE THE GITHUB LINK FROM STEP 1 & HIT ENTER.
-5) TYPE npm i IN THE CONSOLE AREA & HIT ENTER.
-6) TYPE YOUR USERNAME & PASSWORD IN main.js FILE.
+3) CLICK ON + ICON ALSO KNOWN AS CREATE NEW REPL & CLICK IMPORT FROM GITHUB AND PASTE THE GITHUB LINK FROM STEP 1 & HIT ENTER.
+4) TYPE npm i IN THE CONSOLE AREA & HIT ENTER.
+5) TYPE YOUR USERNAME & PASSWORD IN ENV FILE.
 7) CLICK ON PLAY/RUN ICON.
 THAT'S IT HAVE FUN WITH YOUR CHATBOT
 ```
-# TO MAKE YOUR INSTA ID SAFE
-### FOLLOW THE STEPS :- 
-```js
-1) GO TO MAIN.JS REPALCE THE LAST LINE WITH :- client.login(process.env.username, process.env.password)
-2) GO TO ENV AND CREATE 2 VARIABLES NAMED username & password
-3) TYPE YOUR USERNAME & PASSWORD IN THE VALUE FIELD
-"IF USING .env FILE DO IT LIKE THIS IN YOUR ENV FILE :- 
-username=your_username
-password=your_password"
-```
+## HEROKU
+<p align="center">
+        <a href="https://heroku.com/deploy?template=https://github.com/ExE-Venom/insta-chatbot2.0">
+            <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+        </a>
+    </p>
 
 ## CHECK OUT OUR DISCORD BOTS
 * [REXZ](https://discord.com/oauth2/authorize?client_id=856741116912861276&permissions=261993005047&scope=bot)
