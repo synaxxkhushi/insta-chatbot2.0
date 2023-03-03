@@ -5,14 +5,24 @@
   "logo": "https://avatars.githubusercontent.com/u/87944936?v=4",
   "keywords": ["chatbot, "insta chatbot", "instagram chatbot", "nodejs", "bot"],
   "env": {
+  "API_ID": {
+    "description": "Brain ID from Brainshop.ai",
+     "value": "",
+     "required" :true
+  },
+  "API_KEY": {
+    "description": "ApiKey from Brainshop.ai",
+     "value": "",
+     "required" :true
+  },
     "USERNAME": {
     "description": "Username/Email ID of Instagram Account",
-      "value": "VenomExE@gmail.com",
+      "value": "Example: VenomExE@gmail.com",
      "required" :true
   },
   "PASSWORD": {
     "description": "Password Of Instagram Account",
-     "value": "VenomExE123",
+     "value": "Example: VenomExE123",
      "required" :true
   }
 },
