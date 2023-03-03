@@ -1,0 +1,33 @@
+{
+  "name": "insta-chatbot2.0",
+  "description": "simple instagram chatbot with insta.js",
+  "repository": "https://github.com/ExE-Venom/insta-chatbot2.0",
+  "logo": "https://avatars.githubusercontent.com/u/87944936?v=4",
+  "keywords": ["chatbot, "insta chatbot", "instagram chatbot", "nodejs", "bot"],
+  "env": {
+    "USERNAME": {
+    "description": "Username/Email ID of Instagram Account",
+      "value": "VenomExE@gmail.com",
+     "required" :true
+  },
+  "PASSWORD": {
+    "description": "Password Of Instagram Account",
+     "value": "VenomExE123",
+     "required" :true
+  }
+},
+  "buildpacks": [
+    {
+      "url": "heroku/nodejs"
+    },
+    {
+      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+    }
+  ],
+   "formation": {
+        "worker": {
+            "quantity": 1,
+            "size": "standard-1x"
+        }
+    }
+}
