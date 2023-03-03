@@ -3,7 +3,7 @@
   "description": "simple instagram chatbot with insta.js",
   "repository": "https://github.com/ExE-Venom/insta-chatbot2.0",
   "logo": "https://avatars.githubusercontent.com/u/87944936?v=4",
-  "keywords": ["chatbot, "insta chatbot", "instagram chatbot", "nodejs", "bot"],
+  "keywords": ["chatbot", "insta chatbot", "instagram chatbot", "nodejs", "bot"],
   "env": {
   "API_ID": {
     "description": "Brain ID from Brainshop.ai",
