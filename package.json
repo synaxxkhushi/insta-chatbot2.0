@@ -1,7 +1,7 @@
 {
   "name": "insta-chatbot",
   "version": "1.0.0",
-  "description": "instagram chatbot by venomexe",
+  "description": "instagram chatbot by maybe__abhii",
   "main": "main.js",
   "scripts": {
     "run": "node main.js",
