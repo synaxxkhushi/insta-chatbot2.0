@@ -13,7 +13,7 @@ client.on('messageCreate', (message) => {
     message.markSeen();
 
     if(message.content.toLowerCase().includes('hi') || message.content.toLowerCase().includes('hello')){ 
-        return message.chat.sendMessage('VENOMEXE IS MY DEVELOPER CHECK OUT HIS CHANNEL :- https://youtube.com/c/VenomExE');
+        return message.chat.sendMessage('abhishek IS MY DEVELOPER @maybe__abhii');
     } else
     chatbot(`http://api.brainshop.ai/get?bid=${process.env.API_ID}&key=${process.env.API_KEY}&uid=[uid]&msg=${encodeURIComponent(message.content)}`)
     .then(res => res.json())
